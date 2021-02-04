@@ -1,0 +1,250 @@
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\obj\Debug\SoialMedia.WebAPI.csprojAssemblyReference.cache
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\obj\Debug\SoialMedia.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Social Media Mockup.dll.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Social Media Mockup.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Social Media Mockup.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\csc.exe
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\csc.exe.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\csc.rsp
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\csi.exe
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\csi.exe.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\csi.rsp
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.AppContext.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Console.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.IO.Compression.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Net.Http.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Net.Sockets.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.ValueTuple.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\vbc.exe
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\vbc.exe.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\vbc.rsp
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\VBCSCompiler.exe
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Antlr3.Runtime.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\EntityFramework.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\EntityFramework.SqlServer.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Newtonsoft.Json.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Owin.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\SocialMedia.Data.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\SocialMedia.Models.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\SocialMedia.Services.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Net.Http.Formatting.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Helpers.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Http.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Http.Owin.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Http.WebHost.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Mvc.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Optimization.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Razor.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.WebPages.Deployment.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.WebPages.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.WebPages.Razor.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\WebGrease.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\SocialMedia.Data.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\SocialMedia.Data.dll.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\SocialMedia.Models.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\SocialMedia.Models.dll.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\SocialMedia.Services.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\SocialMedia.Services.dll.config
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Newtonsoft.Json.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Net.Http.Formatting.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Helpers.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Http.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Http.WebHost.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Mvc.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Optimization.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Razor.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.WebPages.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.WebPages.Deployment.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.WebPages.Razor.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Antlr3.Runtime.pdb
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\EntityFramework.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\EntityFramework.SqlServer.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\System.Web.Http.Owin.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\obj\Debug\SoialMedia.WebAPI.csproj.CopyComplete
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\obj\Debug\Social Media Mockup.dll
+C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social Media Mockup\obj\Debug\Social Media Mockup.pdb
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Social Media Mockup.dll.config
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Social Media Mockup.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Social Media Mockup.pdb
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\csc.exe
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\csc.exe.config
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\csc.rsp
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\csi.exe
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\csi.exe.config
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\csi.rsp
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.Managed.Core.targets
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.AppContext.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Collections.Immutable.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Console.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Globalization.Calendars.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.IO.Compression.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.IO.FileSystem.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Net.Http.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Net.Sockets.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Reflection.Metadata.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.ValueTuple.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Xml.XmlDocument.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Xml.XPath.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\vbc.exe
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\vbc.exe.config
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\vbc.rsp
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\VBCSCompiler.exe
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\roslyn\VBCSCompiler.exe.config
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Antlr3.Runtime.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\EntityFramework.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\EntityFramework.SqlServer.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.AspNet.Identity.Core.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.Cookies.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.Facebook.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.Google.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.OAuth.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.Twitter.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Web.Infrastructure.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Newtonsoft.Json.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Owin.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\SocialMedia.Data.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\SocialMedia.Models.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\SocialMedia.Services.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Net.Http.Formatting.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Helpers.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Http.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Http.Owin.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Http.WebHost.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Mvc.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Optimization.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Razor.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.WebPages.Deployment.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.WebPages.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.WebPages.Razor.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\WebGrease.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\SocialMedia.Data.pdb
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\SocialMedia.Data.dll.config
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\SocialMedia.Models.pdb
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\SocialMedia.Models.dll.config
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\SocialMedia.Services.pdb
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\SocialMedia.Services.dll.config
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Newtonsoft.Json.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Net.Http.Formatting.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Helpers.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Http.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Http.WebHost.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Mvc.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Optimization.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Razor.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.WebPages.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.WebPages.Deployment.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.WebPages.Razor.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Antlr3.Runtime.pdb
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\EntityFramework.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\EntityFramework.SqlServer.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.AspNet.Identity.Core.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.Facebook.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.Cookies.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.Google.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.Twitter.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.Owin.Security.OAuth.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\System.Web.Http.Owin.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\obj\Debug\SoialMedia.WebAPI.csprojAssemblyReference.cache
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\obj\Debug\SoialMedia.WebAPI.csproj.CoreCompileInputs.cache
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\obj\Debug\SoialMedia.WebAPI.csproj.CopyComplete
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\obj\Debug\Social Media Mockup.dll
+G:\ElevenFiftyProjects\Social-Media-Mockup-main\Social Media Mockup\obj\Debug\Social Media Mockup.pdb
