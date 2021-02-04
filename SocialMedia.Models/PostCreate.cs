@@ -11,7 +11,7 @@ namespace SocialMedia.Models
     {
         [Required]
         public string Title { get; set; }
-        public string Content { get; set; }
+        public string Text { get; set; }
 
     }
 }

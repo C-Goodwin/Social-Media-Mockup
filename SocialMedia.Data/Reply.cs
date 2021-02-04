@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Data
 {
-    class Reply : Comment
+    public class Reply : Comment
     {
     }
 }
