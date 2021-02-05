@@ -7,15 +7,15 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Data
 {
-    class Post
+    public class Post
     {
         [Key]
-        public int Id { get; set; }
+        public int PostId { get; set; }
         [Required]
         public string Title { get; set; }
         [Required]
         public string Text { get; set; }
         public virtual ICollection<Comment> Comments { get; set; }
-        Guid Author { get; set; }
+        public Guid Author { get; set; }
     }
 }

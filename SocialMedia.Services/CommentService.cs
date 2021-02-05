@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SocialMedia.Data
+namespace SocialMedia.Services
 {
-    public class Reply : Comment
+    public class CommentService
     {
     }
 }
