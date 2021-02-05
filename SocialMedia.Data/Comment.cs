@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SocialMedia.Data
 {
-    class Comment
+    public class Comment
     {
         [Key]
         public int Id { get; set; }
