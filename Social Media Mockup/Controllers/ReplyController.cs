@@ -10,12 +10,12 @@ namespace Social_Media_Mockup.Controllers
 {
     public class ReplyController : ApiController
     {
-        public IHttpActionResult Get(int id)
-        {
-            ReplyService replyService = CreateReplyService();
-            var reply = replyService.GetReplyById(id);
-            return Ok(reply);
-        }
+        //public IHttpActionResult Get(int id)
+        //{
+        //    ReplyService replyService = CreateReplyService();
+        //    var reply = replyService.GetReplyById(id);
+        //    return Ok(reply);
+        //}
 
     }
 }

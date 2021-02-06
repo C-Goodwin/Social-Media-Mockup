@@ -10,8 +10,6 @@ namespace SocialMedia.Data
 {
     public class Reply
     {
-<<<<<<< HEAD
-=======
         [Key]
         public int ReplyId { get; set; }
         [Required]
@@ -22,7 +20,6 @@ namespace SocialMedia.Data
         public int PostId { get; set; }
         [ForeignKey("Comment")]
         public int CommentId { get; set; }
->>>>>>> 4e5d4b5277e2dfefdd964caa6668370f27ba0950
 
     }
 }
