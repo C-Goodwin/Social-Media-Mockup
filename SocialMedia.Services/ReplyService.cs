@@ -10,22 +10,61 @@ namespace SocialMedia.Services
 {
     public class ReplyService
     {
-        public ReplyDetail GetNoteById(int id)
+        private readonly Guid _userId;
+        public ReplyService(Guid userId)
+        {
+            _userId = userId;
+        }
+        public bool CreateReply(ReplyCreate model)
+        {
+            var entity =
+                new Reply()
+                {
+                    Author = _userId,
+                    Text=model.Text,
+                };
+
+            using (var ctx = new ApplicationDbContext())
+            {
+                ctx.Replies.Add(entity);
+                return ctx.SaveChanges() == 1;
+            }
+        }
+        public IEnumerable<ReplyListItem> GetReplies()
         {
             using (var ctx = new ApplicationDbContext())
             {
-                var entity =
+                var query =
                     ctx
                         .Replies
-                        .Single(e => e.ReplyId == id && e.Author == _userId);
-                return
-                    new ReplyDetail
-                    {
-                        ReplyId = entity.ReplyId,
-                        Text = entity.Text,
-                        Author = entity.Author
-                    };
+                        .Where(e => e.Author == _userId)
+                        .Select(
+                            e =>
+                                new ReplyListItem
+                                {
+                                    Text = e.Text
+                                }
+                        );
+
+                return query.ToArray();
             }
         }
+        //public ReplyDetail GetNoteById(int id)
+        //{
+        //    using (var ctx = new ApplicationDbContext())
+        //    {
+        //        var entity =
+        //            ctx
+        //                .Replies
+        //                .Single(e => e.ReplyId == id && e.Author == _userId);
+        //        return
+        //            new ReplyDetail
+        //            {
+        //                ReplyId = entity.ReplyId,
+        //                Text = entity.Text,
+        //                Author = entity.Author
+        //            };
+        //    }
+        //}
     }
 }
