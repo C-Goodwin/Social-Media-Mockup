@@ -2,11 +2,9 @@
 
 namespace SocialMedia.Models
 {
-    public class PostCreate
+    public class CommentCreate
     {
         [Required]
-        public string Title { get; set; }
         public string Text { get; set; }
-
     }
 }
