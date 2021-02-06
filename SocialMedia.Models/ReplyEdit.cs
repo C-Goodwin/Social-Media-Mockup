@@ -8,5 +8,6 @@ namespace SocialMedia.Models
 {
     public class ReplyEdit
     {
+        //Things go here
     }
 }
