@@ -27,6 +27,18 @@ namespace Social_Media_Mockup.Controllers
             return Ok();
         }
 
+        public IHttpActionResult Get()
+        {
+            PostService postService = CreatedPostService(); ;
+            var posts = postService.GetPost();
+            return Ok();
+        }
+
+
+
+
+
+
         // Helper Method
         private PostService CreatedPostService()
         {

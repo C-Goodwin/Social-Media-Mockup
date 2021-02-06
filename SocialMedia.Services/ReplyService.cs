@@ -42,12 +42,29 @@ namespace SocialMedia.Services
                             e =>
                                 new ReplyListItem
                                 {
-                                    Text=e.Text
+                                    Text = e.Text
                                 }
                         );
 
                 return query.ToArray();
             }
         }
+        //public ReplyDetail GetNoteById(int id)
+        //{
+        //    using (var ctx = new ApplicationDbContext())
+        //    {
+        //        var entity =
+        //            ctx
+        //                .Replies
+        //                .Single(e => e.ReplyId == id && e.Author == _userId);
+        //        return
+        //            new ReplyDetail
+        //            {
+        //                ReplyId = entity.ReplyId,
+        //                Text = entity.Text,
+        //                Author = entity.Author
+        //            };
+        //    }
+        //}
     }
 }
