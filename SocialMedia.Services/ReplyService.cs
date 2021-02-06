@@ -10,6 +10,7 @@ namespace SocialMedia.Services
 {
     public class ReplyService
     {
+<<<<<<< HEAD
         private readonly Guid _userId;
         public ReplyService(Guid userId)
         {
@@ -47,6 +48,23 @@ namespace SocialMedia.Services
                         );
 
                 return query.ToArray();
+=======
+        public ReplyDetail GetNoteById(int id)
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Replies
+                        .Single(e => e.ReplyId == id && e.Author == _userId);
+                return
+                    new ReplyDetail
+                    {
+                        ReplyId = entity.ReplyId,
+                        Text = entity.Text,
+                        Author = entity.Author
+                    };
+>>>>>>> 4e5d4b5277e2dfefdd964caa6668370f27ba0950
             }
         }
     }
