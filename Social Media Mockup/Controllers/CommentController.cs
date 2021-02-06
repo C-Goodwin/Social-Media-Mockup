@@ -10,12 +10,12 @@ namespace Social_Media_Mockup.Controllers
 {
     public class CommentController : ApiController
     {
-        //public IHttpActionResult Get(int id)
-        //{
-        //    CommentService cService = CreateCommentService();
-        //    var comment = cService.GetCommentById(id);
-        //    return Ok(comment);
-        //}
+        public IHttpActionResult Get(int id)
+        {
+            CommentService cService = CreateCommentService();
+            var comment = cService.GetCommentById(id);
+            return Ok(comment);
+        }
 
     }
 }
