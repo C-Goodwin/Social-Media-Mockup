@@ -34,5 +34,26 @@ namespace SocialMedia.Services
                 return ctx.SaveChanges() == 1;
             }
         }
+        public IEnumerable<PostListItem> GetPost() // see post by specific user
+        {
+            using (var ctx = new ApplicationDbContext())
+            {
+                var query =
+                    ctx
+                        .Posts
+                        .Where(e => e.Author == _userId)
+                        .Select(
+                            e =>
+                                new PostListItem
+                                {
+                                    PostId = e.PostId,
+                                    Title = e.Title,
+                                   
+                                }
+                        );
+
+                return query.ToArray();
+            }
+        }
     }
 }
