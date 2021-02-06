@@ -10,6 +10,7 @@ namespace SocialMedia.Services
 {
     public class CommentService
     {
+
         //public CommentDetail GetNoteById(int id)
         //{
         //    using (var ctx = new ApplicationDbContext())

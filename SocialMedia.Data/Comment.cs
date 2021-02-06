@@ -16,6 +16,7 @@ namespace SocialMedia.Data
         public string Text { get; set; }
         public Guid Author { get; set; }
         public virtual ICollection<Reply> Replies { get; set; }
+
         [ForeignKey("Post")]
         public int PostId { get; set; }
 
