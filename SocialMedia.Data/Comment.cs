@@ -13,7 +13,7 @@ namespace SocialMedia.Data
         public int Id { get; set; }
         [Required]
         public string Text { get; set; }
-        Guid Author { get; set; }
-        public virtual ICollection<Reply> Replies {get; set;}
+        public Guid Author { get; set; }
+        public virtual ICollection<Reply> Replies { get; set; }
     }
 }

@@ -14,3 +14,22 @@ C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\Social
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
 C:\Users\erkma\Desktop\ElevenFiftyProjects\Blue Badge\Social Media Mockup\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll.config
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\SocialMedia.Models.dll
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\SocialMedia.Models.pdb
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\EntityFramework.dll
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\SocialMedia.Data.dll
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\SocialMedia.Data.pdb
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\SocialMedia.Data.dll.config
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\EntityFramework.xml
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\obj\Debug\SocialMedia.Models.csprojAssemblyReference.cache
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\obj\Debug\SocialMedia.Models.csproj.CopyComplete
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\obj\Debug\SocialMedia.Models.dll
+C:\Users\Ric Wallace\source\repos\Social-Media-Mockup\SocialMedia.Models\obj\Debug\SocialMedia.Models.pdb
