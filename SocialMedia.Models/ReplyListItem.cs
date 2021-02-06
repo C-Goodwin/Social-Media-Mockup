@@ -8,5 +8,7 @@ namespace SocialMedia.Models
 {
     public class ReplyListItem
     {
+        public string Text { get; set; }
+        // List of Text
     }
 }
