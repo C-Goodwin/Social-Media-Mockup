@@ -8,5 +8,6 @@ namespace SocialMedia.Data
 {
     public class Reply : Comment
     {
+
     }
 }
